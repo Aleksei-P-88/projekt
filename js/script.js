@@ -7,4 +7,4 @@ let b=10;
 let c = ++a;
 
 console.log(a);
-console.log(c);g
+console.log(c);
