@@ -48,4 +48,4 @@ div.innerHTML = "<h1>Hello World!!!</h1>";
 
 // div.textContent = "Hello World!!!";
 
-div.insertAdjacentHTML("afterend",'<h2>Pipl Hello</h2>')
+div.insertAdjacentHTML("afterend",'<h2>Pipl Hello</h2>');
